@@ -6,7 +6,7 @@ import com.badlogic.gdx.graphics.g2d.BitmapFont;
 /****************************************
  * Created by Wojtek on 2017-03-11.     *
  * Timur Bagautdinov was here!          *
- * Last correct 2019-30-09 / 30.09.2019 *
+ * Last correct 2020-13-11 / 30.11.2020 *
  ****************************************/
 public class Rosyjski {
     public static final BitmapFont czcionka = new BitmapFont(Gdx.files.internal("czcionka.fnt"));

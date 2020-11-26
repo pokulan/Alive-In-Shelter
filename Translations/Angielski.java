@@ -12,11 +12,11 @@ public class Angielski {
             "New game", //1
             "Continue", //2
             "STATISTICS", //3
-            "Failed collecting", //4
+            "Failed collections", //4
             "Failed shelter", //5
             "Alive: ", //6
             "Games started", //7
-            "Son's deaths", //8
+            "Son's deaths" //8
             "Unfinished games", //9
             "Longest game", //10
 
@@ -256,11 +256,11 @@ public class Angielski {
             "Let's find a way to survive, we can't only sit there", //212
 
             "[TUTORIAL]\nHi! This is your shelter, you can move around it (swipe left/right). Touch and hold on an item to know what it is and its status. Touch/tap on characters to check their stats. Tap on the bed to advance time.", //213
-            "[TUTORIAL]\nMost actions you 'tick' or do will take effect AFTER sleeping.  The trapdoor is very important, you can go places like the yard, open it to let somebody in or give a light signal. You can read its strength there and repair it.", //214
-            "[TUTORIAL]\nTap the radio to check if military wants a light signal, open the door to give it. Change the station around to check! It will take a few times to get their attention for rescue. Other ways are out there for you to discover! :D", //215
+            "[TUTORIAL]\nMost actions you 'tick' or do will take effect AFTER sleeping.  The trapdoor is very important, you can go places like the yard, open it to let somebody in or give a light signal. You also can check its strength and repair it.", //214
+            "[TUTORIAL]\nTap the radio to check if military wants a light signal, open the door to give it. Search for their station signal! It will take a few times to get their attention for rescue. Other ways are out there for you to discover! :D", //215
             "[TUTORIAL]\nRemember to feed the family! To get items/resources, go on expeditions (boots in the character's menu)-watch their status before you leave! If you don't have any supplies, they won't come back!", //216
             "[TUTORIAL]\nIf you lose your map, helpers (if you are lucky) will give you second one. Grow potatoes in the planter, you can use them to trade in the shop.", //217
-            "[TUTORIAL]\nThis game isn't easy! Solve puzzles, try different ways and options, earn coins to unlock new special items. Tip: Buy the Worktable first! ;) Have fun! - pokulan", //217
+            "[TUTORIAL]\nThis game isn't easy! Solve puzzles, try different ways and tactics, earn coins to unlock new special items. Try the Worktable first! ;) Have fun! - pokulan", //217
 
             "Style points",//219
             "Axe", // 220
@@ -278,7 +278,7 @@ public class Angielski {
             "Forest", // 231
             "Shop", // 232
             "Go further", // 233
-            "Remembered: ", // 234
+            "Memorized: ", // 234
             "Rescue bus: ", // 235
             "Santa Claus", // 236
             "I need help. You don't have holiday decorations, too bad you can't help.", // 237
@@ -367,7 +367,7 @@ public class Angielski {
             "Mine entrance is opened at start, without crafting.", // 315
 
             "Extra map pieces", // 316
-            "Fire place", // 317
+            "Fireplace", // 317
             "Book a hotel", // 318
             "Stock", //319
             "Prize", //320
@@ -445,7 +445,7 @@ public class Angielski {
             "Thank you so much! Come back here after day:",//388
             "Guitar", //389
             "THIS IS THE POLICE! OPEN UP!", // 390
-            "We know that you steal supplies! Give us 1 potato and 1 carrot and we will ignore that.", //391
+            "We know that you steal supplies! Give us 1 potato and 1 carrot and we will look away.", //391
 
             "Maybe give them bribe?", //392
             "Uhm... You are very important for us. We will come for you: ",// 393
@@ -473,7 +473,7 @@ public class Angielski {
             "Roasted potato", // 412
             "Roasted fish", // 413
 
-            "Play The Hobo idle Clicker, whole story about the NUKE in Whelylely city and of course Hobo! Real time game!",//414
+            "Play The Hobo idle Clicker, learn the story about the NUKE in Whelylely city and of course Hobo! Real time game!",//414
 
             "Crowbar", //415
             "Shop robbery", // 416
@@ -492,10 +492,10 @@ public class Angielski {
             "Phone", //425
             "Calling", //426
 
-            "Hello [...] So you need help? [...] Hmmmm I will call you back after 3 weeks", //427
-            "Hi [...] I talk to my friends [...] Yes, the West attacked us [...] I know someone who can help you [...] Call Carl: +48 4392 Bye!", //428
-            "Hello Carl there [...] Ah, so you spoke with John [...] The Earth may be ravaged but there are safe places. Call military: 112112", //429
-            "Hello [...] Ouch you come from Carl [...] I understand. Prepare us 6 bottles of Alcohol and 2 of Beer. Then we will rescue you day: ", //430
+            "Hello [...] So you need help? [...] Hmmmm I will call you back in 3 weeks", //427
+            "Hi [...] I spoke to my friends [...] Yes, the West attacked us [...] I know someone who can help you [...] Call Carl: +48 4392 Bye!", //428
+            "Hello, Carl here [...] Ah, so you spoke with John [...] The Earth may be ravaged but there are safe places. Call the military: 112112", //429
+            "Hello [...] Ouch, Carl referred you? [...] I understand. Prepare us 6 bottles of Alcohol and 2 of Beer. Then we will rescue you on day: ", //430
 
             "Dirty clothes", // 431
             "The family dresses every day into random clothes that were previously bought.", // 432
@@ -504,7 +504,7 @@ public class Angielski {
 
             "Alarm clock", // 435"Alarm clock", // 435
 
-            "Hi human. I can show you a wonderland, better word without wars and aggression.", // 436
+            "Hi human. I can show you a wonderland, a better world without wars and aggression.", // 436
             "We can't use any alcohol there, so I am a little thirsty.", // 437
             "I will be coming there every each 20 days for 1 beer and 1 vodka bottle.", // 438
             "I will come 4 times. Are you in?\n\n\nYES       NOT YET", // 439
@@ -528,21 +528,21 @@ public class Angielski {
             "You got more energy recovery tomorrow!", // 454
             "Cider", //455
 
-            "Expedition take place next day after planning it.", // 456
-            "Open trapdoor and sleep in order to give a light signal if you get the broadcast.", // 457
+            "Expedition takes place next day after planning.", // 456
+            "Open trapdoor and sleep in order to give a light signal for the broadcast.", // 457
             "Be sure you are safe when you are giving a signal.", // 458
-            "You can set alarm clock to feed the dog in the night.", // 459
-            "You can not shop in the city when the doctor is in the shelter.", // 460
+            "You can set an alarm clock to feed the dog in the night.", // 459
+            "You cannot shop in the city when the doctor is in the shelter.", // 460
             "You can rob the shop with a crowbar when the doctor is at the shelter.", // 461
-            "Go further to draw a map the first journey then you unlock more loctions.", // 462
+            "Go further to draw a map the first journey to unlock more loctions.", // 462
             "Hide Martha when she is alone before you open the trapdoor for the night.", // 463
-            "Silver key may be carry by the bird or the Doctor at the shop.", // 464
-            "Get The Cook to get a golden key.", // 465
-            "To get blue key do an exchange in the hotel.", // 466
-            "Check the wiki page to see all endings and more info.", // 467
-            "In the cellar you can dig to get coal, bones and metal ores.", // 468
+            "Silver key may be carried by the bird or the Doctor at the shop.", // 464
+            "Get The Cook to get the golden key.", // 465
+            "To get the blue key do a trade at the hotel.", // 466
+            "Check the wiki page for an endings guide and more.", // 467
+            "In the cellar you can dig to get coal, bone and metal ore.", // 468
             "Drink Beer or Cider to recover mining energy.", // 469
-            "Always check your character stats.", // 470
+            "Always check your character status.", // 470
             "Some actions you can make instantly and some need sleep.", // 471
             "Check the trash can in your garden to move out the rubbish and monster.", // 472
             "Look for supply drops in the garden.", // 473
@@ -563,15 +563,15 @@ public class Angielski {
             "Coronavirus", // 485
             "Try to survive with COVID-19! Alcohol helps!", // 486
 
-            "Paste your songs there", // 487
-            "Give in settings access to storage", // 488
+            "Store your songs there", // 487
+            "Give the game settings access to storage", // 488
 
-            "The Hobo robs us. Can you do something with that?... Kill him, then we will talk more.", // 489
+            "The Hobo robbed us. Can you do something with that?... Kill him, then we will talk more.", // 489
             "We need energy! Bring us 5 cups of coffee.", // 490
-            "There is something broken. 3 fuses are blown. Can you give us new one?", // 491
+            "Our power box needs repair. 3 fuses are blown. Can you give us new ones?", // 491
             "The rats destroyed some wires. To open the gate we need 6 new wires.", // 492
             "To power up the gate we need 10 uranium pieces.", // 493
-            "The gate opens every sunday!", // 494
+            "The gate opens every Sunday!", // 494
 
             "Purple Power", // 495
             "Heal all injuries", // 496
@@ -582,29 +582,29 @@ public class Angielski {
 
             "<click>", // 499
             "<swipe>", // 500
-            "Supplies are the most important in survival. Remember to keep track on them.", // 501
-            "You can change the room or some locations outside with finger swipe", // 502
+            "Supplies are the most important aspect in survival. Remember to keep track of them.", // 501
+            "You can change the room or some locations outside with a swipe", // 502
             "There are many other items, which you can check with touch/click.", //503
-            "Go sleep to get next day.", // 504
+            "Sleep to reach the next day.", // 504
             "Let's check Bob's condition. Click on him and give him a drink!", //505
-            "It is important to keep track on family members. Oh look a plant... move it to trash!", //506
-            "Some actions needs sleep, let's plant a potato and then go to next day.", // 507
-            "Trapdoor is very important, if someone is knocking it can be enemy or helper, it also has its own condition.", // 508
+            "It is important to keep track of family members. Oh, look a plant... move it to the trash!", //506
+            "Some actions needs sleep, let's plant a potato and then sleep for the next day.", // 507
+            "The trapdoor is very important, if someone is knocking it can be an enemy or helper, it also has a condition.", // 508
 
-            "You can risk opening the trapdoor or check who is there using for example a potion.", // 509
-            "Create potion: PissVision and drink it.", // 510
+            "You can risk opening the trapdoor or check who is there by using a potion or the camera.", // 509
+            "Craft the potion at the cauldron: PissVision and drink it.", // 510
             "Look! Helpers! You can safely open the trapdoor.", // 511
             "It is time to give all family members food and drink.", // 512
 
-            "Let's water out potatoes.", // 513
-            "It is important to move out the trash. Go to garden.", // 514
-            "It s time to send someone to expedition for supplies. We have a map so let's go to the city.", // 515
-            "Check the radiation if it is HIGH then expedition will cost you one gas mask.", // 516
+            "Let's water our potatoes.", // 513
+            "It is important to take out the trash. Go outside to the garden.", // 514
+            "It s time to send someone to expedition for supplies. We have a map, so let's go to the city.", // 515
+            "Check the radiation! If it is HIGH then expedition will cost you one use of the gas mask.", // 516
             "Take the water and food bundle.", //517
-            "OK, you know the basic things, now you can start the game. Read diary and use your brain! Kill everyone.", // 518
+            "OK, you know the basics, now you can start the game. Read the diary and use your brain! Kill everyone.", // 518
 
             "Trash killer", // 519
-            "There is a strong poison for trash monsters at the beginning.", //520
+            "There is strong poison for trash monsters at the beginning.", //520
 
             "Blind", // 521
             "Try to play without the lamp.", // 522
@@ -613,5 +613,5 @@ public class Angielski {
             "Bread", // 524
     };
 
-    public final static String credits = "Some correction: \n-Cassandra Blair Lone\n-Erik William";
+    public final static String credits = "Corrections: \n-Cassandra Blair Lone\n-Erik William";
 }

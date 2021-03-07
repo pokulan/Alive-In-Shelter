@@ -602,12 +602,14 @@ public class Portugalski {
 
             "Trash killer", // 519
             "Existe um forte veneno para monstros de lixo no início.", //520
-
             "Cego", // 521
             "Tente jogar sem a lâmpada.", // 522
-
             "Vou roubar sua água!", // 523
             "Pão", // 524
+
+            "Meu nome é Srak. Por favor, me ajude com este problema. Dê-me uma toalha de mesa. Vou lhe dar algumas batatas, um rádio e gasolina.", // 525
+            "Ammunition keeper", // 526
+            "Comece o jogo com muita munição!", // 527
     };
 
     public static final String credits = "Tradução: -Lucas Silva\n#juriteam\n-João Soutello";

@@ -606,12 +606,14 @@ public class Czeski {
 
             "Trash killer", // 519
             "Na začátku je silný jed pro odpadkové příšery.", //520
-
             "Slepý", // 521
             "Zkuste hrát bez lampy.", // 522
-
             "Ukradnu ti vodu!", // 523
             "Chléb", // 524
+
+            "Jmenuji se Srak. Prosím, pomozte mi s tímto problémem. Dejte mi ubrus. Dám vám nějaké brambory, rádio a benzín.", // 525
+            "Ammunition keeper", // 526
+            "Spusťte hru se spoustou munice!", // 527
     };
 
     public static final String credits = "Překlad:\n-Adam Dufek\n-Jan Mihalik\n-Ondřej Turek";

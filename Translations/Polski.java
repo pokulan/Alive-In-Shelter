@@ -598,13 +598,15 @@ public class Polski {
 
             "Trash killer", // 519
             "Silna trucizna na śmieciowego potwora na starcie.", //520
-
             "Ślepiec", // 521
             "Spróbuj wygrać bez lampy.", // 522
-
             "Ukradnę wam wode!", // 523
             "Bułka", // 524
+
+            "Nazywam się Srak. Proszę pomóż mi z \"tym\" problemem. Przynieś mi obrus. Dam Ci w zamian parę ziemniaków, radio i benzynę.", // 525
+            "Ammunition keeper", // 526
+            "Rozpocznij grę z kupą amunicji!", // 527
     };
 
-    public static final String credits = "Tłumaczenie:\n-pokulan \n-Bo jestem z PL :D";
+    public static final String credits = "Tłumaczenie:\n-pokulan \n-Bo jestem z PL :)";
 }

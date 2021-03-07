@@ -602,12 +602,14 @@ public class Wegierski{
 
             "Trash killer", // 519
             "Az elején erős méreg van a szemétszörnyekre.", //520
-
             "Vak", // 521
             "Próbálj meg lámpa nélkül játszani.", // 522
-
             "Ellopom a vizét!", // 523
             "Kenyér", // 524
+
+            "A nevem Srak. Kérem, segítsen nekem ebben a bajban. Adj egy terítőt. Adok neked egy kis krumplit, rádiót és benzint.", // 525
+            "Ammunition keeper", // 526
+            "Kezdje a játékot rengeteg lőszerrel!", // 527
 
     };
 

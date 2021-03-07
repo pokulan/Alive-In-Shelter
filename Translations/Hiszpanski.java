@@ -601,12 +601,14 @@ public class Hiszpanski {
 
             "Trash killer", // 519
             "Hay un veneno fuerte para los monstruos basura al principio.", //520
-
             "Ciego", // 521
             "Intenta jugar sin la lámpara.", // 522
-
             "¡Te robaré el agua!", // 523
             "Pan", // 524
+
+            "Mi nombre es Srak. Por favor ayúdame con este problema. Dame un mantel. Te daré unas patatas, una radio y gasolina", // 525
+            "Ammunition keeper", // 526
+            "¡Comienza el juego con un montón de municiones!", // 527
     };
 
     public final static String credits = "Traducción: \n-Brunno Valente\n-Ricardo Velázquez";

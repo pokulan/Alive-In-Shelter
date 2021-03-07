@@ -602,12 +602,14 @@ public class Francuski {
 
             "Trash killer", // 519
             "Il y a un poison puissant pour les monstres de déchets au début.", //520
-
             "Aveugle", // 521
             "Essayez de jouer sans la lampe.", // 522
-
             "Je volerai votre eau!", // 523
             "Pain", // 524
+
+            "Je m'appelle Srak. S'il vous plaît, aidez-moi avec ce problème. Donnez-moi une nappe. Je vous donnerai des pommes de terre, une radio et de l'essence.", // 525
+            "Ammunition keeper", // 526
+            "Commencez le jeu avec des tonnes de munitions!", // 527
     };
 
     public static final String credits = "Traduction:\n-Nicolas Cassez";

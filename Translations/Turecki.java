@@ -601,12 +601,14 @@ public class Turecki {
 
             "Trash killer", // 519
             "Başlangıçta çöp canavarları için güçlü bir zehir var.", //520
-
             "Kör", // 521
             "Lamba olmadan oynamaya çalışın.", // 522
-
             "Suyunu çalacağım!", // 523
             "Ekmek", // 524
+
+            "Benim adım Srak. Lütfen bu konuda bana yardım et. Bana bir masa örtüsü ver. Sana biraz patates, bir radyo ve benzin vereceğim.", // 525
+            "Ammunition keeper", // 526
+            "Oyuna bir sürü cephane ile başlayın!", // 527
     };
 
     public static final String credits = "Çeviri: -Bersis\n-Yaşar Cahangirli\n-Kemal Atakan Kırca";

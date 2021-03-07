@@ -597,12 +597,14 @@ public class Wloski {
 
             "Trash killer", // 519
             "All'inizio c'è un forte veleno per i mostri della spazzatura.", //520
-
             "Cieco", // 521
             "Prova a giocare senza la lampada.", // 522
-
             "Ti ruberò l'acqua!", // 523
             "Pane", // 524
+
+            "Mi chiamo Srak. Per favore aiutami con questo problema. Dammi una tovaglia. Ti darò delle patate, una radio e della benzina.", // 525
+            "Ammunition keeper", // 526
+            "Inizia il gioco con un sacco di munizioni!", // 527
 
     };
 

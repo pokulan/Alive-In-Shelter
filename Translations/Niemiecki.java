@@ -598,10 +598,13 @@ public class Niemiecki {
 
             "Trash killer", // 519
             "Am Anfang gibt es ein starkes Gift für Müllmonster.", //520
-
             "Blind", // 521
             "Versuche ohne die Lampe zu spielen.", // 522
             "Brot", // 524
+
+            "Mein Name ist Srak. Bitte helfen Sie mir bei diesem Problem. Geben Sie mir eine Tischdecke. Ich werde Ihnen Kartoffeln, ein Radio und Benzin geben.", // 525
+            "Ammunition keeper", // 526
+            "Starte das Spiel mit viel Munition!", // 527
     };
 
     public static final String credits = "Übersetzung:\n-GeriMcFly\n-Pascal Weißendung";

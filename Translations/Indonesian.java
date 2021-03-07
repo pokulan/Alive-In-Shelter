@@ -600,12 +600,14 @@ public class Indonesian {
 
             "Trash killer", // 519
             "Ada racun yang kuat untuk monster sampah di awal.", //520
-
             "Buta", // 521
             "Cobalah bermain tanpa lampu.", // 522
-
             "Aku akan mencuri airmu!", // 523
             "Roti", // 524
+
+            "Nama saya Srak. Tolong bantu saya mengatasi masalah ini. Beri saya taplak meja. Saya akan memberi Anda kentang, radio, dan bensin.", // 525
+            "Ammunition keeper", // 526
+            "Mulailah permainan dengan banyak amunisi!", // 527
     };
 
     public final static String credits = "Beberapa koreksian: \n- xASSAULT\n- Froxy";

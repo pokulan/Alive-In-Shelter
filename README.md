@@ -21,5 +21,6 @@ Official translation files for Alive In Shelter Android game
 | English | Angielski.java |
 | Russian | Rosyjski.java |
 | Turkish |Turecki.java |
+| Ukrainian |Ukrainian.java |
 | Hungarian | Węgierski.java |
 | Italian | Wloski.java |

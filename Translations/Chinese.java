@@ -627,6 +627,10 @@ public class Chinese {
             "我的名字叫Srak。請幫我解決這個麻煩。給我一張桌布。我會給你一些土豆，收音機和汽油。",// 525
             "Ammunition keeper", // 526
             "用彈藥開始遊戲！", // 527
+            "長按購買", // 528
+
+            "今天天氣酷熱，我們今天必須喝更多！", // 529
+
     };
 
     public static final String credits = "翻译:\n-Marco YCH\n-Zin Lu Lin";

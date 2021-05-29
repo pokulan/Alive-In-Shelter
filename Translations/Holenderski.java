@@ -608,6 +608,10 @@ public class Holenderski {
             "Mijn naam is Srak. Help me alstublieft met dit probleem. Geef me een tafelkleed. Ik zal je wat aardappelen, een radio en benzine geven.", // 525
             "Ammunition keeper", // 526
             "Start het spel met heel veel munitie!", // 527
+
+            "Lang indrukken om te kopen", // 528
+
+            "Het is zinderende hitte vandaag, we moeten vandaag meer DRINKEN!", // 529
     };
 
     public final static String credits = "Vertaling:\n-Faas";

@@ -606,6 +606,10 @@ public class Polski {
             "Nazywam się Srak. Proszę pomóż mi z \"tym\" problemem. Przynieś mi obrus. Dam Ci w zamian parę ziemniaków, radio i benzynę.", // 525
             "Ammunition keeper", // 526
             "Rozpocznij grę z kupą amunicji!", // 527
+
+            "Przytrzymaj by kupić", // 528
+
+            "Dzisiaj jest mocny upał, MUSIMY pić dzisiaj więcej!", // 529
     };
 
     public static final String credits = "Tłumaczenie:\n-pokulan \n-Bo jestem z PL :)";

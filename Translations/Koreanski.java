@@ -608,6 +608,10 @@ public class Koreanski {
             "내 이름은 Srak입니다.이 문제를 도와주세요. 식탁보를주세요. 감자, 라디오, 휘발유를 드릴게요.", // 525
             "Ammunition keeper", // 526
             "많은 탄약으로 게임을 시작하십시오!", // 527
+
+            "구매하려면 길게 누르세요.", // 528
+
+            "오늘은 무더위입니다. 오늘은 더 마셔야합니다!", // 529
     };
 
     public static final String credits = "번역:\n-Google :c";

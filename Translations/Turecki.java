@@ -609,6 +609,10 @@ public class Turecki {
             "Benim adım Srak. Lütfen bu konuda bana yardım et. Bana bir masa örtüsü ver. Sana biraz patates, bir radyo ve benzin vereceğim.", // 525
             "Ammunition keeper", // 526
             "Oyuna bir sürü cephane ile başlayın!", // 527
+
+            "Satın almak için basılı tutun", // 528
+
+            "Bugün bunaltıcı bir sıcak, bugün daha çok İÇMEK zorundayız!", // 529
     };
 
     public static final String credits = "Çeviri: -Bersis\n-Yaşar Cahangirli\n-Kemal Atakan Kırca";

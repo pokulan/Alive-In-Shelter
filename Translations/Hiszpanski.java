@@ -609,6 +609,10 @@ public class Hiszpanski {
             "Mi nombre es Srak. Por favor ayúdame con este problema. Dame un mantel. Te daré unas patatas, una radio y gasolina", // 525
             "Ammunition keeper", // 526
             "¡Comienza el juego con un montón de municiones!", // 527
+
+            "Pulsación larga para comprar ", // 528
+
+            "Hace un calor sofocante hoy, ¡tenemos que BEBER más hoy!", // 529
     };
 
     public final static String credits = "Traducción: \n-Brunno Valente\n-Ricardo Velázquez";

@@ -611,6 +611,10 @@ public class Wegierski{
             "Ammunition keeper", // 526
             "Kezdje a játékot rengeteg lőszerrel!", // 527
 
+            "Nyomja meg és tartsa lenyomva a vásárláshoz", // 528
+
+            "Ma rekkenő hőség van, ma többet kell innunk!", // 529
+
     };
 
     public static final String credits = "Fordítás:\n-Ádám Kolozsi\n-Botond Kurucz";

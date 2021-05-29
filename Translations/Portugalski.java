@@ -610,6 +610,10 @@ public class Portugalski {
             "Meu nome é Srak. Por favor, me ajude com este problema. Dê-me uma toalha de mesa. Vou lhe dar algumas batatas, um rádio e gasolina.", // 525
             "Ammunition keeper", // 526
             "Comece o jogo com muita munição!", // 527
+
+            "Pressione e segure para comprar", // 528
+
+            "Está um calor sufocante hoje, temos que BEBER mais hoje!", // 529
     };
 
     public static final String credits = "Tradução: -Lucas Silva\n#juriteam\n-João Soutello";

@@ -610,6 +610,10 @@ public class Francuski {
             "Je m'appelle Srak. S'il vous plaît, aidez-moi avec ce problème. Donnez-moi une nappe. Je vous donnerai des pommes de terre, une radio et de l'essence.", // 525
             "Ammunition keeper", // 526
             "Commencez le jeu avec des tonnes de munitions!", // 527
+
+            "Appuyez longuement pour acheter", // 528
+
+            "Il fait une chaleur accablante aujourd'hui, il faut boire plus aujourd'hui!", // 529
     };
 
     public static final String credits = "Traduction:\n-Nicolas Cassez";

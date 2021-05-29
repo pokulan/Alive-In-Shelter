@@ -608,6 +608,10 @@ public class Indonesian {
             "Nama saya Srak. Tolong bantu saya mengatasi masalah ini. Beri saya taplak meja. Saya akan memberi Anda kentang, radio, dan bensin.", // 525
             "Ammunition keeper", // 526
             "Mulailah permainan dengan banyak amunisi!", // 527
+
+            "Tekan lama untuk membeli", // 528
+
+            "Hari ini panas terik, kita harus MINUM hari ini lebih banyak!", // 529
     };
 
     public final static String credits = "Beberapa koreksian: \n- xASSAULT\n- Froxy";

@@ -606,6 +606,10 @@ public class Wloski {
             "Ammunition keeper", // 526
             "Inizia il gioco con un sacco di munizioni!", // 527
 
+            "Tieni premuto per acquistare", // 528
+
+            "Oggi fa un caldo soffocante, dobbiamo BERE di più oggi!", // 529
+
     };
 
     public static final String credits = "Traduzione: Nicolò Giunta, Andrea Lacava\nJhonny Elendu, Finn Norkel,\nFederico Ragonesi";

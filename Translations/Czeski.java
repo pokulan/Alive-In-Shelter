@@ -614,6 +614,10 @@ public class Czeski {
             "Jmenuji se Srak. Prosím, pomozte mi s tímto problémem. Dejte mi ubrus. Dám vám nějaké brambory, rádio a benzín.", // 525
             "Ammunition keeper", // 526
             "Spusťte hru se spoustou munice!", // 527
+
+            "Dlouhým stisknutím zakoupíte", // 528
+
+            "Dnes je parné teplo, dnes musíme PÍT více!", // 529
     };
 
     public static final String credits = "Překlad:\n-Adam Dufek\n-Jan Mihalik\n-Ondřej Turek";

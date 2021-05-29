@@ -613,6 +613,10 @@ public class Angielski {
             "My name is Srak. Please help me with \"this\" trouble. Give me a tablecloth. I will give you some potatoes, a radio and petrol.", // 525
             "Ammunition keeper", // 526
             "Start the game with loads of ammunition!", // 527
+
+            "Long press to buy", // 528
+
+            "It is sweltering heat today, we have to to DRINK more today!", // 529
     };
 
     public final static String credits = "Corrections: \n-Cassandra Blair Lone\n-Erik William";

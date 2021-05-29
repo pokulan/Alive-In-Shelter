@@ -605,6 +605,10 @@ public class Niemiecki {
             "Mein Name ist Srak. Bitte helfen Sie mir bei diesem Problem. Geben Sie mir eine Tischdecke. Ich werde Ihnen Kartoffeln, ein Radio und Benzin geben.", // 525
             "Ammunition keeper", // 526
             "Starte das Spiel mit viel Munition!", // 527
+
+            "Lange drücken, um zu kaufen", // 528
+
+            "Es ist drückende Hitze heute, wir müssen heute mehr TRINKEN!", // 529
     };
 
     public static final String credits = "Übersetzung:\n-GeriMcFly\n-Pascal Weißendung";

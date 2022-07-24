@@ -12,10 +12,10 @@ public class Wegierski{
             "Új Játék", //1
             "Folytatás", //2
             "Statisztikák", //3
-            "Elbukott gyűjtögetés", //4
-            "Elbukott menedékek", //5
+            "Sikertelen gyűjtögetés", //4
+            "Sikertelen menedékek", //5
             "Túlélve", //6
-            "Indított játékok", //7
+            "Elindított játékok", //7
             "A Fiúk halálai", //8
             "Befejezetlen játékok", //9
             "Leghosszabb Játék", //10
@@ -125,7 +125,7 @@ public class Wegierski{
             "Kazán, megóv a fagytól", //92
             "A Mi régi desztillálónk", //93
             "Vödör", //94
-            "Ez egx jégkorszak!?...", //95
+            "Ez egy jégkorszak!?...", //95
             "Az ídő lassan múlik, és olyan unalmas itt ülni...", //96
 
             "Cibuk (csavargó)", //97
@@ -156,7 +156,7 @@ public class Wegierski{
             "Áram doboz", // 122
 
             "Fa", // 123
-            "Was", // 124
+            "Vas", // 124
             "Dolgozóasztal", // 125
             "Kaka (Műtrágya)", // 126
             "Nyálka", // 127
@@ -177,7 +177,7 @@ public class Wegierski{
             "Arany kulcs", // 141
 
             "Lapátolás", // 142
-            "Sír", // 142
+            "Sírhalom", // 142
             "Szív", // 144
             "Zombi", // 145
 
@@ -251,94 +251,94 @@ public class Wegierski{
 
             "Növekszik a falon.", //208
             "Víz kifogy!", //209
-            "Az élelmiszer lassan kifogy!", //210
+            "Az élelmiszer lassan ki fog fogyni!", //210
             "Katonai fényjelzést kell adnunk, vagy más módot kell találnunk a túlélésre.", //211
             "Találjuk meg a túlélési módot, nem csak ott ülhetünk.", //212
 
-            "[TUTORIAL]\nHi! This is your shelter, you can move around it (swipe left/right). Touch/tap on item to know what it is. Touch/tap on characters to check theirs' stats. Tap on bed and go sleep.", //213
-            "[TUTORIAL]\nMostly everything what you 'tick' or do will take effect after sleeping. Here you can read some important informations. Trapdoor is very important, you can go to the garden or open it to let somebody in or give light signal.", //214
-            "[TUTORIAL]\nTap on the radio to check if military wants light signal if yes give it. Do it few times to win the game (there is a lot of more endings but find them out by yourself) :D", //215
-            "[TUTORIAL]\nRemember to feed you characters! To get items/resources go on the expeditions (boots in the character's menu), remember to 'water' and feed one before going out!", //216
-            "[TUTORIAL]\nIf you lose your map helpers (if you are lucky) will give you second one. Plant potatoes in the bowl you can use them to trade in the shop.", //217
-            "[TUTORIAL]\nThis game isn't easy! Solve puzzles, try different ways and options, earn coins to unlock new special items. Tip: First buy Worktable ;) Have fun! - pokulan", //217
-            "stílusos pontokat",//218
+            "[TUTORIAL]\nSzia! Ez az Ön menedékhelye, mozoghat rajta (csúsztassa balra/jobbra). Érintse meg/koppintson rá, hogy megtudja, mi az. Érintse meg/koppintson a karakterekre a statisztikáik ellenőrzéséhez. Koppintson az ágyra, és menjen aludni." //213
+            "[TUTORIAL]\nTöbbnyire minden, amit "kipipál" vagy tesz, az alvás után hat. Itt olvashat néhány fontos információt. A csapóajtó nagyon fontos, ki lehet menni a kertbe vagy kinyitni, hogy beengedjen valakit, vagy fényjelzést adjon." //214
+            "[TUTORIAL]\nÉrintse meg a rádiót, hogy ellenőrizze, hogy a katonaság kér-e fényjelzést, ha igen, adja meg. Tedd meg néhányszor, hogy megnyerd a játékot (sok vége van, de találd ki magad) 😃", //215
+            "[TUTORIAL]\nNe felejts el karaktereket etetni! Ahhoz, hogy tárgyakat/erőforrásokat szerezzen, menjen az expedícióra (bakancs a karakter menüjében), ne felejtse el "itatni" és megetetni egyet, mielőtt kimegy!" //216
+            "[TUTORIAL]\nHa elveszíted a térképedet, a segítők (ha szerencséd van) adnak egy másodikat. Ültess burgonyát a tálba, és használhatod a bolti kereskedéshez.", //217
+            "[TUTORIAL]\nEz a játék nem könnyű! Rejtvények megoldása, különféle módok és lehetőségek kipróbálása, érmék gyűjtése új különleges tárgyak feloldásához. Tipp: Először vegyél munkaasztalt 😉 Jó szórakozást! - pokulan (lefordítva)", //217
+            "stílus pontok",//218
             "Fejsze", // 220
-            "Rúd", // 221
-            "Shuriken", // 222
+            "Bot", // 221
+            "Suriken", // 222
             "Ördög", // 223
             "Sárgarépa", // 224
             "AlcoMist", // 225
-            "Az ellenséget 30% -kal gyengébbé teszi.", // 226
+            "Az ellenséget 30%-kal gyengébbé teszi.", // 226
 
-            "Teddy", // 227
+            "Teddy Maci", // 227
             "Létra", // 228
             "Szereted-e\n Alive In Shelter?\n   Értékeld!", // 229
             "Repülőtér", // 230
             "Erdő", // 231
             "Üzlet", // 232
-            "Menj tovább", // 233
+            "További út", // 233
             "Emlékezik: ", // 234
             "mentő busz: ", // 235
             "Mikulás", // 236
-            "Segítségre van szükségem. Nincsenek karácsonyi díszek, tehát nem köszönöm.", // 236
+            "Segítségre van szükségem. Nincsenek karácsonyi díszek, sajnos tehát segíthetsz.", // 236
             "Vigyázz! TŰZ!", // 237
             "Tűzoltó készülék", // 239
-            "A hóember megöli minket.", // 240
-            "Hóember gyilkos", // 241
+            "A hóember megöl minket.", // 240
+            "A gyilkos hóember", // 241
 
             "1939 burgonya", // 242
-            "Indítsa el a játékot 1939-es burgonyával.", // 243
-            "Csak 8s kihívás", // 244
-            "A részek összegyűjtésében csak 8 másodperc van", // 245
-            "Csak élelmiszer és víz", // 246
+            "Indítsd el a játékot 1939 burgonyával.", // 243
+            "Csak 8mp kihívás", // 244
+            "A szerszámok összegyűjtésében csak 8 másodperc van", // 245
+            "Csak kaja és pia", // 246
             "Indítsa el a játékot csak 3l vízzel és 2kg élelmiszerrel", // 247
-            "Csak a nők!", // 248
-            "Csak Katrin játszani.", // 249
-            "Tél jön", // 250
-            "Mindig fagyos szél", // 251
+            "Csak nők!", // 248
+            "Csak a Katrinnal lehet játszani.", // 249
+            "Jön a tél", // 250
+            "Mindig fagyos szél lessz", // 251
             "Véletlen", // 252
-            "Indítsa el a játékot véletlenszerű elemekkel.", // 253
+            "Indítsa el a játékot véletlenszerű dolgokkal.", // 253
             "BenHulk", // 254
-            "Indítsa el a játékot mutált Ben",  //255
-            "Növényőr", // 256
-            "A növény segít megvédeni a menedéket.", // 257
+            "Indítsa el a játékot mutált Bennel",  //255
+            "Növény őr", // 256
+            "A növény segít megvédeni a bunkert.", // 257
             "Danse macabre", // 258
-            "A karakterek újra életre kelnek 6 nappal a halála után.", // 259
-            "Nem szerzetesek", // 260
+            "A karakterek újra életre kelnek 6 nappal a haláluk után.", // 259
+            "szerzetelek nélkül", // 260
             "Nincsenek szerzetesek!", // 261
-            "Biztonsági kívül", // 262
-            "Mindig alacsony sugárzás", // 263
+            "Kint biztonságos", // 262
+            "Mindig alacsony a sugárzás", // 263
             "Extra denevérek", // 264
-            "A denevérek mutálódnak, hoznak Bloobyt.", // 265
+            "A denevérek mutálódnak, és hoznak Bloobyt.", // 265
             "Nincs kilépés", // 266
             "Nincs csapóajtó.", // 267
             "Klasszikus mód", // 268
-            "Játssz klasszikus módban - régi időkben, csak egy szobában stb.", // 269
+            "Játssz klasszikus módban - régi idők, csak egy szoba van stb.", // 269
             "Sandbox mód", // 270
-            "A homokozó módban játssz, csináld, amit akarsz!", // 271
-            "Nem ezek a srácok", // 272
+            "Játssz a homokozó módban, Azt Csinálhatod, amit akarsz!", // 271
+            "Nincs többé fura emberek", // 272
             "Játssz denevérek, hóember és Pennywhistle nélkül.", // 273
             "RPG", // 274
-            "Keress tapasztalatpontokat és felfelé karaktereket.", // 275
+            "Keress tapasztalatpontokat és frissítsd fel a karaktereket.", // 275
 
             "Szint", // 276
             "Következő szint", // 277
-            "Pont", // 278
+            "Pontok", // 278
 
             "Napi bónusz", // 279
             "Heti bónusz", // 280
-            "I am an indie game developer I spend my free time improving this game. If you want you can help me donating me = buying a premium. You will unlock all DLC items, all shelter items for 0 coins, renaming characters, remembered position and remove all ads. Thanks :)", // 281
-            "Ossza meg", // 282
-            "Elintézetlen", // 283
-            "Barátok szomszédai", // 284
+            "Indie játékfejlesztő vagyok, szabadidőmet a játék fejlesztésével töltöm. Ha akarod, segíthetsz nekem adományozni = prémium vásárlás. Feloldod az összes DLC-elemet, az összes menedéktárgyat 0 érméért, átnevezed a karaktereket, a megjegyzett pozíciót, és eltávolítod az összes hirdetést. Köszönöm 🙂", // 281
+            "IDt megosztani", // 282
+            "Addolj be engem", // 283
+            "Barátok szomszédok", // 284
 
-            "Play deathmatch - nyer, aki tovább tart!", // 285
+            "Játsz deathmatchet - az nyer, aki tovább tart!", // 285
     "Várakozás az elfogadásra", // 286
-        "Meghívni a mérkőzést", // 287
+        "Meghívni a mérkőzésre", // 287
            "örökre meghalt", // 288
-            "Deathmatch nyer:", // 289
-            "CleanBerry", // 290
-            "Tisztítja a családtagokat.", // 290
+            "Deathmatchet nyeri:", // 289
+            "TisztíttóBogyó", // 290
+            "Kitisztítja a családtagokat.", // 290
             "\"Gommi\" falu", // 292
             "\"Majd menedékjogot adunk neked.\"", // 293
             "Weed", // 294
@@ -352,7 +352,7 @@ public class Wegierski{
 
             "Hegy", // 301
             "Yard", // 302
-            "Shop #2", // 303
+            "Üzlet #2", // 303
             "Tomb", // 304
             "Menhelyek", // 305
             "Temető", // 306
@@ -379,7 +379,7 @@ public class Wegierski{
             "Indítsa el a játékot minden billentyűvel!", // 327
             "Expedíciók mestere", // 328
             "Indítsa el a játékot az összes extra térképrészével", // 329
-            "Rossz hóember jött vissza :(", // 330
+            "Rossz hóember jött vissza 🙁", // 330
             "A szennyezőmérő hibás.", // 331
             "Mi kell zuhanyozni, használjunk piszkos vizet.", // 332
             "Ajtó", // 333

@@ -609,6 +609,21 @@ public class Niemiecki {
             "Lange drücken, um zu kaufen", // 528
 
             "Es ist drückende Hitze heute, wir müssen heute mehr TRINKEN!", // 529
+            "Hallo! Ich heiße Skylight. Können Sie mich mit Ihrer Taschenlampe aufladen? Ich bin immer sonntags hier. Ich werde Ihnen im Austausch mit den Lichtsignalen helfen.", // 530
+
+            "Banditen", // 531
+            "Gib uns 2 Liter Wasser, damit wir weg sind. Wenn nicht, dann kämpfe!", // 532
+
+            "Schuppen", // 533
+            "Food Pack", // 534
+            "Aktuelle Speicherung überschreiben?", //535
+
+            "Rüstung", // 536
+            "Sonnenkollektor", // 537
+            "Sonnenkollektor kaputt.", // 538
+
+            "Kartoffelstempel", // 539
+            "Wir haben aufgehört, Ihnen zu helfen, weil Sie die Tür nicht geöffnet haben. Bist du noch am Leben?", //540
     };
 
     public static final String credits = "Übersetzung:\n-GeriMcFly\n-Pascal Weißendung";

@@ -613,6 +613,21 @@ public class Hiszpanski {
             "Pulsación larga para comprar ", // 528
 
             "Hace un calor sofocante hoy, ¡tenemos que BEBER más hoy!", // 529
+            "¡Hola! Mi nombre es Tragaluz. ¿Puedes cargarme con tu linterna? Siempre estoy aquí los domingos. Te ayudaré con las señales de luz a cambio.", // 530
+
+            "Bandidos", // 531
+            "Danos 2 litros de agua para que nos vayamos. Si no, ¡lucha! ", // 532
+
+            "La choza", // 533
+            "Food Pack", // 534
+            "¿Anular el guardado actual?", //535
+
+            "Armadura", // 536
+            "Panel solar", // 537
+            "El panel solar se rompió.", // 538
+
+            "Sello de patata", // 539
+            "Dejamos de intentar ayudarte porque no abriste la puerta. ¿Sigues vivo?", //540
     };
 
     public final static String credits = "Traducción: \n-Brunno Valente\n-Ricardo Velázquez";

@@ -617,6 +617,21 @@ public class Angielski {
             "Long press to buy", // 528
 
             "It is sweltering heat today, we have to to DRINK more today!", // 529
+            "Hi! My name is Skylight. Can you charge me with your flashlight? I am here always on Sundays. I will help you with the light signals in exchange.", // 530
+
+            "Bandits", // 531
+            "Give us 2L of water so we will be gone. If not then fight!", // 532
+
+            "Hovel", // 533
+            "Food Pack", // 534
+            "Override current save?", //535
+
+            "Armor", // 536
+            "Solar panel", // 537
+            "Solar panel broke.", // 538
+
+            "Potato stamp", // 539
+            "We stopped knocking to help you because nobody opened the door. Are you still alive?", //540
     };
 
     public final static String credits = "Corrections: \n-Cassandra Blair Lone\n-Erik William";

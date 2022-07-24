@@ -618,6 +618,21 @@ public class Czeski {
             "Dlouhým stisknutím zakoupíte", // 528
 
             "Dnes je parné teplo, dnes musíme PÍT více!", // 529
+            "Ahoj! Jmenuji se Skylight. Můžete mě dobít baterkou? Jsem tu vždy v neděli. Výměnou vám pomůžu se světelnými signály.", // 530
+
+            "Bandité", // 531
+            "Dejte nám 2L vody, takže budeme pryč. Pokud ne, pak bojujte! ", // 532
+
+            "Kolna", // 533
+            "Food Pack", // 534
+            "Přepsat aktuální uložení?", //535
+
+            "Brnění", // 536
+            "Solární panel", // 537
+            "Solární panel praskl.", // 538
+
+            "Bramborové razítko", // 539
+            "Přestali jsme se vám snažit pomoci, protože jste neotevřeli dveře. Jsi stále naživu?", //540
     };
 
     public static final String credits = "Překlad:\n-Adam Dufek\n-Jan Mihalik\n-Ondřej Turek";

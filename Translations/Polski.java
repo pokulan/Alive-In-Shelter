@@ -610,6 +610,22 @@ public class Polski {
             "Przytrzymaj by kupić", // 528
 
             "Dzisiaj jest mocny upał, MUSIMY pić dzisiaj więcej!", // 529
+            "Hej! Nazywam się Skylight. Możesz naładować mnie latarką? Pomogę ci w zamian z sygnałem świetlnym. Jestem tu zawsze w niedzielę.", // 530
+
+            "Bandyci", // 531
+            "Daj nam 2L wody to znikniemy. Jeżeli nie to będziemy walczyć!", // 532
+
+            "Rudera", // 533
+
+            "Food Pack", // 534
+            "Napewno nadpisać grę?", //535
+
+            "Zbroja", // 536
+            "Solar", // 537
+            "Panel solarny uszkodzony.", // 538
+
+            "Pieczątka z ziemniaka", // 539
+            "Przestaliśmy tutaj pukać z pomocą, ponieważ nikt nie otwierał. Czy ktoś tu ciągle żyje?", //540
     };
 
     public static final String credits = "Tłumaczenie:\n-pokulan \n-Bo jestem z PL :)";

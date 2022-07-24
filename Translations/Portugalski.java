@@ -614,6 +614,21 @@ public class Portugalski {
             "Pressione e segure para comprar", // 528
 
             "Está um calor sufocante hoje, temos que BEBER mais hoje!", // 529
+            "Oi! Meu nome é Skylight. Você pode me carregar com sua lanterna? Estou sempre aqui aos domingos. Vou ajudá-lo com os sinais de luz em troca. ", // 530
+
+            "Bandidos", // 531
+            "Dê-nos 2L de água para que possamos partir. Se não, lute!", // 532
+
+            "O casebre", // 533
+            "Food Pack", // 534
+            "Substituir o salvamento atual?", //535
+
+            "armaduras", // 536
+            "Painel solar", // 537
+            "Painel solar quebrou.", // 538
+
+            "Selo de batata", // 539
+            "Paramos de tentar ajudá-lo porque você não abriu a porta. Você ainda está vivo?", //540
     };
 
     public static final String credits = "Tradução: -Lucas Silva\n#juriteam\n-João Soutello";

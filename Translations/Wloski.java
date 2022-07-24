@@ -609,6 +609,21 @@ public class Wloski {
             "Tieni premuto per acquistare", // 528
 
             "Oggi fa un caldo soffocante, dobbiamo BERE di più oggi!", // 529
+            "Ciao! Il mio nome è Skylight. Puoi caricarmi con la tua torcia? Sono qui sempre la domenica. Ti aiuterò con i segnali luminosi in cambio.", // 530
+
+            "banditi", // 531
+            "Dateci 2 litri d'acqua così ce ne andremo. Se no, allora combatti!", // 532
+
+            "Tugurio", // 533
+            "Food Pack", // 534
+            "Sovrascrivere il salvataggio corrente?", //535
+
+            "Armatura", // 536
+            "Pannello solare", // 537
+            "Il pannello solare è rotto", // 538
+
+            "Timbro di patate", // 539
+            "Abbiamo smesso di cercare di aiutarti perché non hai aperto la porta. Sei ancora vivo?", //540
 
     };
 

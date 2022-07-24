@@ -612,6 +612,21 @@ public class Holenderski {
             "Lang indrukken om te kopen", // 528
 
             "Het is zinderende hitte vandaag, we moeten vandaag meer DRINKEN!", // 529
+            "Hoi! Mijn naam is Skylight. Kunt u mij opladen met uw zaklamp? Ik ben hier altijd op zondag. In ruil daarvoor help ik je met de lichtsignalen.", // 530
+
+            "Bandieten", // 531
+            "Geef ons 2 liter water zodat we weg zijn. Zo niet, vecht dan! ", // 532
+
+            "Krot", // 533
+            "Food Pack", // 534
+            "Huidige opslag overschrijven?", //535
+
+            "Schild", // 536
+            "Zonnepaneel", // 537
+            "Zonnepaneel kapot.", // 538
+
+            "Aardappel stempel", // 539
+            "We zijn gestopt met proberen je te helpen omdat je de deur niet hebt geopend. Bent u nog in leven?", //540
     };
 
     public final static String credits = "Vertaling:\n-Faas";

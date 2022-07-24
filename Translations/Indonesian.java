@@ -612,6 +612,21 @@ public class Indonesian {
             "Tekan lama untuk membeli", // 528
 
             "Hari ini panas terik, kita harus MINUM hari ini lebih banyak!", // 529
+            "Hai! Nama saya Skylight. Bisakah Anda menagih saya dengan senter Anda? Saya di sini selalu pada hari Minggu. Saya akan membantu Anda dengan sinyal cahaya sebagai gantinya.", // 530
+
+            "Bandit", // 531
+            "Beri kami 2L air sehingga kami akan pergi. Jika tidak maka bertarunglah!", // 532
+
+            "Gubuk", // 533
+            "Food Pack", // 534
+            "Ganti penyimpanan saat ini?", //535
+
+            "Baju zirah", // 536
+            "Panel surya", // 537
+            "Panel surya rusak.", // 538
+
+            "Stempel kentang.", // 539
+            "Kami berhenti mencoba membantu Anda karena Anda tidak membuka pintu. Apakah kamu masih hidup?", //540
     };
 
     public final static String credits = "Beberapa koreksian: \n- xASSAULT\n- Froxy";

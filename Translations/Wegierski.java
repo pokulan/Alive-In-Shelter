@@ -614,6 +614,21 @@ public class Wegierski{
             "Nyomja meg és tartsa lenyomva a vásárláshoz", // 528
 
             "Ma rekkenő hőség van, ma többet kell innunk!", // 529
+            "Szia! Skylight vagyok. Fel tudsz tölteni az elemlámpáddal? Itt vagyok mindig vasárnap. Cserébe segítek a fényjelzésekben.", // 530
+
+            "Banditák", // 531
+            "Adj 2L vizet, hogy eltűnjünk. Ha nem, akkor harcolj!", // 532
+
+            "Kalyiba", // 533
+            "Food Pack", // 534
+            "Felülírja az aktuális mentést?", //535
+
+            "Páncél", // 536
+            "Napelem", // 537
+            "Elromlott a napelem.", // 538
+
+            "Burgonya bélyegző", // 539
+            "Nem próbáltunk segíteni, mert nem nyitottad ki az ajtót. Még mindig élsz?", //540
 
     };
 

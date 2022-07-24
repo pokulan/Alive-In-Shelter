@@ -613,6 +613,21 @@ public class Turecki {
             "Satın almak için basılı tutun", // 528
 
             "Bugün bunaltıcı bir sıcak, bugün daha çok İÇMEK zorundayız!", // 529
+            "Selam! Benim adım Skylight. Beni el fenerinle şarj edebilir misin? Pazar günleri hep buradayım. Karşılığında ışık sinyalleri konusunda size yardımcı olacağım.", // 530
+
+            "haydutlar", // 531
+            "Bize 2 litre su verin ki yok olalım. Değilse, o zaman savaşın! ", // 532
+
+            "Kulübe", // 533
+            "Food Pack", // 534
+            "Mevcut kaydın üzerine yazılsın mı?", //535
+
+            "Zırh", // 536
+            "Güneş paneli", // 537
+            "Güneş paneli bozuldu.", // 538
+
+            "Patates damgası", // 539
+            "Kapıyı açmadığın için sana yardım etmekten vazgeçtik. Hala hayatta mısın?", //540
     };
 
     public static final String credits = "Çeviri: -Bersis\n-Yaşar Cahangirli\n-Kemal Atakan Kırca";

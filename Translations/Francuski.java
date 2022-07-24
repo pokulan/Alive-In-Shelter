@@ -614,6 +614,21 @@ public class Francuski {
             "Appuyez longuement pour acheter", // 528
 
             "Il fait une chaleur accablante aujourd'hui, il faut boire plus aujourd'hui!", // 529
+            "Salut! Je m'appelle Skylight. Pouvez-vous me recharger avec votre lampe de poche? Je suis toujours ici le dimanche. Je vous aiderai avec les signaux lumineux en échange. ", // 530
+
+            "Bandits", // 531
+            "Donnez-nous 2L d'eau pour que nous soyons partis. Si ce n'est pas le cas, battez-vous !", // 532
+
+            "Les taudis", // 533
+            "Food Pack", // 534
+            "Ignorer la sauvegarde actuelle?", //535
+
+            "Armure", // 536
+            "Panneau solaire", // 537
+            "Panneau solaire cassé.", // 538
+
+            "Timbre de pomme de terre", // 539
+            "Nous avons cessé d'essayer de vous aider parce que vous n'avez pas ouvert la porte. Es-tu toujours en vie?", //540
     };
 
     public static final String credits = "Traduction:\n-Nicolas Cassez";

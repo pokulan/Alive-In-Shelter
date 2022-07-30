@@ -52,7 +52,7 @@ public class Wegierski{
             "Következő alkalommal majd üzetelünk.", //36
             "Üzlet teljesítve.", //37
             "A Mentőakció sikeres!", //38
-            "Meg kell őt mentenünk!\gyorsan nyomd meg!", //39
+            "Meg kell őt mentenünk!\\gyorsan nyomd meg!", //39
 
             "Túl lassú vagy\n   A Létezéshez", //40
             "Játékaim", //41
@@ -255,12 +255,12 @@ public class Wegierski{
             "Katonai fényjelzést kell adnunk, vagy más módot kell találnunk a túlélésre.", //211
             "Találjuk meg a túlélési módot, nem csak ott ülhetünk.", //212
 
-            "[TUTORIAL]\nSzia! Ez az Ön menedékhelye, mozoghat rajta (csúsztassa balra/jobbra). Érintse meg/koppintson rá, hogy megtudja, mi az. Érintse meg/koppintson a karakterekre a statisztikáik ellenőrzéséhez. Koppintson az ágyra, és menjen aludni." //213
-            "[TUTORIAL]\nTöbbnyire minden, amit "kipipál" vagy tesz, az alvás után hat. Itt olvashat néhány fontos információt. A csapóajtó nagyon fontos, ki lehet menni a kertbe vagy kinyitni, hogy beengedjen valakit, vagy fényjelzést adjon." //214
-            "[TUTORIAL]\nÉrintse meg a rádiót, hogy ellenőrizze, hogy a katonaság kér-e fényjelzést, ha igen, adja meg. Tedd meg néhányszor, hogy megnyerd a játékot (sok vége van, de találd ki magad) 😃", //215
-            "[TUTORIAL]\nNe felejts el karaktereket etetni! Ahhoz, hogy tárgyakat/erőforrásokat szerezzen, menjen az expedícióra (bakancs a karakter menüjében), ne felejtse el "itatni" és megetetni egyet, mielőtt kimegy!" //216
+            "[TUTORIAL]\nSzia! Ez az Ön menedékhelye, mozoghat rajta (csúsztassa balra/jobbra). Érintse meg/koppintson rá, hogy megtudja, mi az. Érintse meg/koppintson a karakterekre a statisztikáik ellenőrzéséhez. Koppintson az ágyra, és menjen aludni.", //213
+            "[TUTORIAL]\nTöbbnyire minden, amit \"kipipál\" vagy tesz, az alvás után hat. Itt olvashat néhány fontos információt. A csapóajtó nagyon fontos, ki lehet menni a kertbe vagy kinyitni, hogy beengedjen valakit, vagy fényjelzést adjon.", //214
+            "[TUTORIAL]\nÉrintse meg a rádiót, hogy ellenőrizze, hogy a katonaság kér-e fényjelzést, ha igen, adja meg. Tedd meg néhányszor, hogy megnyerd a játékot (sok vége van, de találd ki magad)", //215
+            "[TUTORIAL]\nNe felejts el karaktereket etetni! Ahhoz, hogy tárgyakat/erőforrásokat szerezzen, menjen az expedícióra (bakancs a karakter menüjében), ne felejtse el \"itatni\" és megetetni egyet, mielőtt kimegy!", //216
             "[TUTORIAL]\nHa elveszíted a térképedet, a segítők (ha szerencséd van) adnak egy másodikat. Ültess burgonyát a tálba, és használhatod a bolti kereskedéshez.", //217
-            "[TUTORIAL]\nEz a játék nem könnyű! Rejtvények megoldása, különféle módok és lehetőségek kipróbálása, érmék gyűjtése új különleges tárgyak feloldásához. Tipp: Először vegyél munkaasztalt 😉 Jó szórakozást! - pokulan (lefordítva)", //217
+            "[TUTORIAL]\nEz a játék nem könnyű! Rejtvények megoldása, különféle módok és lehetőségek kipróbálása, érmék gyűjtése új különleges tárgyak feloldásához. Tipp: Először vegyél munkaasztalt Jó szórakozást! - pokulan (lefordítva)", //217
             "stílus pontok",//218
             "Fejsze", // 220
             "Bot", // 221
@@ -333,9 +333,9 @@ public class Wegierski{
             "Barátok szomszédok", // 284
 
             "Játsz deathmatchet - az nyer, aki tovább tart!", // 285
-    "Várakozás az elfogadásra", // 286
-        "Meghívni a mérkőzésre", // 287
-           "örökre meghalt", // 288
+            "Várakozás az elfogadásra", // 286
+            "Meghívni a mérkőzésre", // 287
+            "örökre meghalt", // 288
             "Deathmatchet nyeri:", // 289
             "TisztíttóBogyó", // 290
             "Kitisztítja a családtagokat.", // 290
@@ -388,7 +388,7 @@ public class Wegierski{
             "966 Gommi Blueberries", //335
             "Indítsa el a játékot 966 Gommi Blueberries", // 336
             "Blobby a mocsok", // 337
-	    "Indítsa el a játékot Blobby-val.", // 338
+            "Indítsa el a játékot Blobby-val.", // 338
             "Dodge the dog", //339
             "Indítsd el a játékot kutyával! (Meg kell szerezned egy kutyaházat).", //340
             "Barátok", // 341
@@ -529,31 +529,31 @@ public class Wegierski{
             "Holnap több energia-visszanyerést kapsz!", // 454
             "Almabor", //455
 
-            "Az expedíció az engedélyezés után következő napon zajlik." // 456
-            "Nyisd ki a csapóajtót és menj aludni, hogy fényjelzést adj, ha a rádió mondja." // 457
-            "Győződjön meg róla, hogy biztonságban van, amikor fényjelzést ad." // 458
-            "Beállíthatja az ébresztőórát, hogy éjszaka etesse a kutyát." // 459
-            "Nem használhatsz boltot a városban, ha az orvos a menhelyen van." // 460
-            "A boltot feszítővassal kirabolhatod, ha az orvos a menhelyen van." // 461
-            "Menjen tovább, és először kattintson a térkép megrajzolásához, majd további helyeket nyit meg." // 462
-            "Bújtsa el Mártát, amikor egyedül van, mielőtt kinyitná a csapóajtót éjszakára." // 463
-            "Ezüst kulcsot hordhat a madár vagy az orvos a boltban." // 464
-            "Get The Cook get golden key." // 465
-            "Kék kulcscsere a szállodában." // 466
-            "Nézze meg a wiki oldalt az összes végződés megtekintéséhez." // 467
-            "Főleg a pincében áss szén, csontok és fémércek előállítása érdekében." // 468
-            "Igyál sört vagy almabort a bányászati ​​energia visszanyeréséhez." // 469
-            "Mindig ellenőrizze a karakterstatisztikát." // 470
-            "Néhány cselekvés azonnal elvégezhető, és néhányhoz alvásra van szükség." // 471
-            "Kattintson a kukára a kertben, hogy elmozdítsa a szemetet és a szörnyet." // 472
-            "Keresd a készletcsökkenést a kertben." // 473
-            "Próbálj meg rakétát készíteni és menekülj a Földről..." // 474
-            "Próbálj meg kézművesíteni és előkészíteni egy tutajt a tengerparton, hogy elmenekülj." // 475
-            "A csapóajtóhoz kopogtató segítők krumplit és térképet adhatnak." // 476
+            "Az expedíció az engedélyezés után következő napon zajlik.", // 456
+            "Nyisd ki a csapóajtót és menj aludni, hogy fényjelzést adj, ha a rádió mondja.", // 457
+            "Győződjön meg róla, hogy biztonságban van, amikor fényjelzést ad.", // 458
+            "Beállíthatja az ébresztőórát, hogy éjszaka etesse a kutyát.", // 459
+            "Nem használhatsz boltot a városban, ha az orvos a menhelyen van.", // 460
+            "A boltot feszítővassal kirabolhatod, ha az orvos a menhelyen van.", // 461
+            "Menjen tovább, és először kattintson a térkép megrajzolásához, majd további helyeket nyit meg.", // 462
+            "Bújtsa el Mártát, amikor egyedül van, mielőtt kinyitná a csapóajtót éjszakára.", // 463
+            "Ezüst kulcsot hordhat a madár vagy az orvos a boltban.", // 464
+            "Get The Cook get golden key.", // 465
+            "Kék kulcscsere a szállodában.", // 466
+            "Nézze meg a wiki oldalt az összes végződés megtekintéséhez.", // 467
+            "Főleg a pincében áss szén, csontok és fémércek előállítása érdekében.", // 468
+            "Igyál sört vagy almabort a bányászati ​​energia visszanyeréséhez.", // 469
+            "Mindig ellenőrizze a karakterstatisztikát.", // 470
+            "Néhány cselekvés azonnal elvégezhető, és néhányhoz alvásra van szükség.", // 471
+            "Kattintson a kukára a kertben, hogy elmozdítsa a szemetet és a szörnyet.", // 472
+            "Keresd a készletcsökkenést a kertben.", // 473
+            "Próbálj meg rakétát készíteni és menekülj a Földről...", // 474
+            "Próbálj meg kézművesíteni és előkészíteni egy tutajt a tengerparton, hogy elmenekülj.", // 475
+            "A csapóajtóhoz kopogtató segítők krumplit és térképet adhatnak.", // 476
             "A macska megöli a szemetes szörnyeket és a denevéreket...", // 477
-            "Vigyázzatok az expedíciókon!" // 478
-            "Keressen autóalkatrészeket az expedíciókon, hogy megjavítsa az autót a roncstelepen." // 479
-            "Ne feledje a bájitalokat! Készítheti és használhatja őket." //480
+            "Vigyázzatok az expedíciókon!", // 478
+            "Keressen autóalkatrészeket az expedíciókon, hogy megjavítsa az autót a roncstelepen.", // 479
+            "Ne feledje a bájitalokat! Készítheti és használhatja őket.", //480
 
             "Több minden:",//481
             "Kávé", // 482

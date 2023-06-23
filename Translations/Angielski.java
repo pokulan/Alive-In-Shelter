@@ -412,12 +412,15 @@ public class Angielski {
             "Will you survive? Glitches everywhere... Restart the game to come back to normal!", // 357
             "Earthquake!", // 358
             "Grab what do you want to save", // 359
+            
             "Ben!? How is this possible?", //360
             "Attackers are everywhere!", //361
             "Room", //362
             "Garden", //363
             "Basement", //364
+
             "Magazine", //365
+
             "Hurricane is coming!!!", // 366
             "Tic Tac shut up", // 367
             "Slows down the clocks!", // 368
@@ -510,12 +513,14 @@ public class Angielski {
             "I will come 4 times. Are you in?\n\n\nYES       NOT YET", // 439
             "Thank you! See you in 20 days. Don't forget!", // 440
             "No alcohol, no rescue... Goodbye forever.", // 441
+
             "Flesh", //442
             "Baked flesh", //443
             "Drop Bombs!", //444
             "Start the game as a bomber! Hit the targets to gain extra style points!", //445
             "Kitty have killed:", // 446
             "Martha had a bad dream... She is so scared when she need to hide.", //447
+            
             "Rice", //448
             "Glue", // 449
 
@@ -582,6 +587,7 @@ public class Angielski {
 
             "<click>", // 499
             "<swipe>", // 500
+
             "Supplies are the most important aspect in survival. Remember to keep track of them.", // 501
             "You can change the room or some locations outside with a swipe", // 502
             "There are many other items, which you can check with touch/click.", //503
@@ -600,6 +606,7 @@ public class Angielski {
             "It is important to take out the trash. Go outside to the garden.", // 514
             "It s time to send someone to expedition for supplies. We have a map, so let's go to the city.", // 515
             "Check the radiation! If it is HIGH then expedition will cost you one use of the gas mask.", // 516
+            
             "Take the water and food bundle.", //517
             "OK, you know the basics, now you can start the game. Read the diary and use your brain! Kill everyone.", // 518
 
